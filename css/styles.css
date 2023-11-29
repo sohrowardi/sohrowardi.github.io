@@ -5,15 +5,18 @@ body {
     box-sizing: border-box;
     background-color: #f8f9fa;
     text-align: center;
+    color: #343a40;
 }
 
 .container {
-    max-width: 600px;
+    max-width: 800px;
     margin: 50px auto;
+    text-align: left; /* Align text to the left within the container */
 }
 
 h1 {
-    color: #343a40;
+    font-size: 2.5em;
+    margin-bottom: 20px;
 }
 
 .social-icons {
@@ -29,7 +32,7 @@ h1 {
 
 .social-icons a {
     text-decoration: none;
-    color: #343a40;
+    color: #007bff;
 }
 
 .social-icons i {
