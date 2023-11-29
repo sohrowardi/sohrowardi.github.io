@@ -11,6 +11,8 @@ body {
 
 .container {
     text-align: center;
+    max-width: 600px; /* Optional: Adjust the maximum width as per your preference */
+    margin: 0 auto; /* This will center the container */
 }
 
 h1 {
