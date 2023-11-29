@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Calibri Light', sans-serif;
     background-color: #f8f8f8;
     margin: 0;
     padding: 0;
@@ -9,23 +9,21 @@ body {
     height: 100vh;
 }
 
-.container {
+.content-container {
     text-align: center;
-    max-width: 600px; /* Optional: Adjust the maximum width as per your preference */
-    margin: 0 auto; /* This will center the container */
 }
 
 h1 {
+    font-size: 36px;
+    font-weight: bold;
     color: #333;
 }
 
-.social-icons a {
-    text-decoration: none;
-    margin: 0 10px;
-    color: #333;
-    font-size: 24px;
+p {
+    font-size: 18px;
+    color: #555;
 }
 
-a:hover {
+a {
     color: #007bff;
 }
