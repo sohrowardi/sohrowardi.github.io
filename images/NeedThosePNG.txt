@@ -1,6 +1,0 @@
-└── images
-    ├── linkedin.png
-    ├── reddit.png
-    ├── github.png
-    ├── youtube.png
-    └── mail.png
