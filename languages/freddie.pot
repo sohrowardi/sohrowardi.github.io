@@ -1,0 +1,85 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Freddie 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/freddie\n"
+"POT-Creation-Date: 2023-06-28 18:55:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: patterns/404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: patterns/404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. Translators: WordPress link.
+#: patterns/footer.php:16
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:18
+msgid "Designed with %1$s"
+msgstr ""
+
+#: patterns/front-page-alt.php:24 patterns/front-page.php:34
+msgid ""
+"Freddie Mercury (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) "
+"was a British singer and songwriter, who achieved worldwide fame as the lead "
+"vocalist of the rock band Queen. Regarded as one of the greatest singers in "
+"the history of rock music, he was known for his flamboyant stage persona and "
+"four-octave vocal range. Mercury defied the conventions of a rock frontman "
+"with his theatrical style, influencing the artistic direction of Queen."
+msgstr ""
+
+#: patterns/header.php:14
+msgid ""
+"It&rsquo;s a beautiful day.<br>The sun is shining.<br>I feel good.<br>And no "
+"one&rsquo;s gonna stop me now."
+msgstr ""
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: patterns/search.php:25
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/freddie/style.css
+msgid "Freddie"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/freddie/style.css
+msgid "https://wordpress.com/theme/freddie"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/freddie/style.css
+msgid ""
+"Freddie is a theme using a full-screen background image to captivate the "
+"viewer with a brief, immersive moment."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/freddie/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/freddie/style.css
+msgid "https://automattic.com/"
+msgstr ""
